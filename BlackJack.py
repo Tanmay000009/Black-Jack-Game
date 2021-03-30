@@ -1,7 +1,7 @@
 import random
 from art import logo
 import os
-import time
+import time 
 print(logo)
 game=input("Do you wanna play Blackjack?: type 'y' for 'yes' and 'any other key' for 'no' ")
 
