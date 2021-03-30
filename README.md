@@ -9,4 +9,4 @@
   This game follows standard Black Jack rules. You can see them at [Black Jack rules](https://bicyclecards.com/how-to-play/blackjack/).
   
 # Thank You:
-  Thank you for visiting this repository, and especially for reading complete README.md xD.
+  Thank you for visiting this repository, and especially for reading complete README.md xD. 
